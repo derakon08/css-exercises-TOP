@@ -1,0 +1,18 @@
+.oddnum {
+    background-color: rgb(250, 130, 140);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+.oddnum.big {
+    font-size: 24px;
+}
+
+#second {
+    color: hsl(240, 100%, 40%);
+    font-size: 36px;
+}
+
+#fourth {
+    background-color: #18db29;
+    font-size: 24px;
+    font-weight: bold;
+}
